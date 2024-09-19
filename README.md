@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taylorren (aka TR@SOE, 老彼得爸, 肾上)
 - 👀 I’m interested in Programming, Reading/Writing, ...
-- 🌱 I’m currently learning Flutter and Espanol.
+- 🌱 I’m currently learning C++ (teaching kids) and Espanol (for fun).
 - 💞️ I’m looking to collaborate on (*no fixed interest yet*)
 - 📫 taylor.ren@gmail.com is the preferred method of contact
 
